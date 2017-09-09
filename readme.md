@@ -1,4 +1,4 @@
-#Git Commands
+#Git Command
 -git init
 -git status
--git add<file_name>
+-git add <file_name>
